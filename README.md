@@ -7,9 +7,6 @@
 Hello everyone, I have a bachelor's degree in Information Systems from UGV University, I love mathematics and problem solving. I currently work with data analysis, but I am studying AI with Python with a view to a future career migration. 
 
 #### :computer: I work today with: 
-- Finish my Computer Engineering Master Degree  
-- Taking online courses about Data Science and Machine Learning 
-- Business practices on [bi4 Group Spain](https://github.com/bi4group) 🚀 *coming soon*
 - Business analysis;
 - Analysis of database structures, mainly SQL Server and PostgreSQL;
 - Development of T-SQL, PG PL/SQL and PL/SQL (functions, triggers, procedures, views, etc.);
