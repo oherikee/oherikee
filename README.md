@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/oherikee)
 
 
-Hello everyone, I have a bachelor's degree in Information Systems from UGV University, I love mathematics and problem solving. I currently work with data analysis, but I am studying AI with Python with a view to a future career migration. 
+Hello everyone, I have a bachelor's degree in Information Systems from UGV University, I love mathematics and problem solving. I currently work with T-SQL developing, but I am studying Oracle Database Administration with a view to a future career level up! 
 
 #### :computer: I work today with: 
 - Business analysis;
