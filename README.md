@@ -19,13 +19,10 @@ Database modeling;
 
 
 #### :book: I am studying:
-- Python backend development;
-- AI development;
-- Reinforcing my knowledge of APIs.
+- Oracle Database Administration (Using Oracle Linux);
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=oherikee&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
